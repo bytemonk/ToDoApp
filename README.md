@@ -1,2 +1,2 @@
 # ToDoApp
-A Simple ToDo App in Java using Spring MVC, Hibernate and MySQL
+A Simple ToDo App written in Java using Spring MVC, Hibernate and MySQL
